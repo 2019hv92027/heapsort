@@ -51,7 +51,7 @@ System.out.println();
 // Driver program
 public static void main(String args[])
 {
-int arr[] = {12, 11, 13, 5, 6, 7};
+int arr[] = {12, 11, 13, 5, 6, 7, 123, 432, 242, 33, 121, 232, 4567, 7689, 1};
 int n = arr.length;
 HeapSort ob = new HeapSort();
 ob.sort(arr);
